@@ -58,9 +58,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=SouryaneelPal&theme=radical&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=SouryaneelPal&theme=default&hide_border=false&count_private=true" />
-    <img alt="Souryaneel Pal's GitHub stats" src="https://github-readme-stats.shion.dev/api?username=SouryaneelPal&theme=default&count_private=true" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?hide_rank=true&username=SouryaneelPal&theme=radical&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?hide_rank=true&username=SouryaneelPal&theme=default&hide_border=false&count_private=true" />
+    <img alt="Souryaneel Pal's GitHub stats" src="https://github-readme-stats.shion.dev/api?hide_rank=true&username=SouryaneelPal&theme=default&count_private=true" height="165" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=SouryaneelPal&theme=radical&hide_border=true&layout=compact" />
